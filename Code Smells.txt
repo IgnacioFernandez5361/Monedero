@@ -1,0 +1,4 @@
+-Duplicate Code en Cuenta.poner() y Cuenta.sacar()
+-Long Method en Cuenta.poner() y Cuenta.sacar()
+-Long Parameter List en Cuenta.agregarMovimiento(...), podrían ser reemplazados por Movimiento
+-Feature Envy en Cuenta.getMontoExtraidoA(...)
